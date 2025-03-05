@@ -1,0 +1,85 @@
+{
+  "guid": "root________",
+  "title": "",
+  "index": 0,
+  "dateAdded": 1740601048186000,
+  "lastModified": 1740601275702000,
+  "id": 1,
+  "typeCode": 2,
+  "type": "text/x-moz-place-container",
+  "root": "placesRoot",
+  "children": [
+    {
+      "guid": "menu________",
+      "title": "menu",
+      "index": 0,
+      "dateAdded": 1740601048186000,
+      "lastModified": 1740601151666000,
+      "id": 2,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "root": "bookmarksMenuFolder"
+    },
+    {
+      "guid": "toolbar_____",
+      "title": "toolbar",
+      "index": 1,
+      "dateAdded": 1740601048186000,
+      "lastModified": 1740601048270000,
+      "id": 3,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "root": "toolbarFolder"
+    },
+    {
+      "guid": "unfiled_____",
+      "title": "unfiled",
+      "index": 3,
+      "dateAdded": 1740601048186000,
+      "lastModified": 1740601275702000,
+      "id": 5,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "root": "unfiledBookmarksFolder",
+      "children": [
+        {
+          "guid": "KYvW-dlvB_YS",
+          "title": "Test Folder",
+          "index": 0,
+          "dateAdded": 1740601261107000,
+          "lastModified": 1740601275702000,
+          "id": 17,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "mAQ-wHKmGwfH",
+              "title": "Test",
+              "index": 0,
+              "dateAdded": 1740601105441000,
+              "lastModified": 1740601275702000,
+              "id": 12,
+              "typeCode": 1,
+              "tags": "test,test1",
+              "type": "text/x-moz-place",
+              "uri": "https://test.website/",
+              "keyword": "test_keyword",
+              "postData": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "guid": "mobile______",
+      "title": "mobile",
+      "index": 4,
+      "dateAdded": 1740601048206000,
+      "lastModified": 1740601048270000,
+      "id": 6,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "root": "mobileFolder"
+    }
+  ]
+}

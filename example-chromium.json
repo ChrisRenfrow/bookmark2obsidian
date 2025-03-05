@@ -1,0 +1,60 @@
+{
+  "checksum": "091d7dab6aa5b695a642ef96765ab1ed",
+  "roots": {
+    "bookmark_bar": {
+      "children": [],
+      "date_added": "13385507687119717",
+      "date_last_used": "0",
+      "date_modified": "0",
+      "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+      "id": "1",
+      "name": "Bookmarks bar",
+      "type": "folder"
+    },
+    "other": {
+      "children": [
+        {
+          "children": [
+            {
+              "date_added": "13385507767527863",
+              "date_last_used": "0",
+              "guid": "5c91cdef-0664-4346-9dfc-85dd93e5b751",
+              "id": "6",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "test.website",
+              "type": "url",
+              "url": "http://test.website/"
+            }
+          ],
+          "date_added": "13385507709128841",
+          "date_last_used": "0",
+          "date_modified": "13385507771273144",
+          "guid": "96fee9ac-4bec-49a8-839c-6e101708a9d5",
+          "id": "5",
+          "name": "Test",
+          "type": "folder"
+        }
+      ],
+      "date_added": "13385507687119721",
+      "date_last_used": "0",
+      "date_modified": "13385507767527863",
+      "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+      "id": "2",
+      "name": "Other bookmarks",
+      "type": "folder"
+    },
+    "synced": {
+      "children": [],
+      "date_added": "13385507687119723",
+      "date_last_used": "0",
+      "date_modified": "0",
+      "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+      "id": "3",
+      "name": "Mobile bookmarks",
+      "type": "folder"
+    }
+  },
+  "version": 1
+}
